@@ -1,6 +1,6 @@
 {
   "name": "@largefish/preset-largefish",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "dependencies": {
     "@umijs/preset-react": "~1.7.6"
