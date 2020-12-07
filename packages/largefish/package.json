@@ -1,11 +1,11 @@
 {
   "name": "largefish",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "bin": "bin/largefish.js",
   "main": "index.js",
   "module": "index.module.js",
   "dependencies": {
-    "@largefish/preset-largefish": "^0.0.2",
+    "@largefish/preset-largefish": "^0.0.3",
     "umi": "~3.3.0"
   },
   "license": "MIT"
