@@ -34,5 +34,5 @@ yarn test
 ## Publish
 
 ```bash
-yarn publish
+yarn release
 ```

@@ -12,7 +12,7 @@
   "scripts": {
     "build": "father-build",
     "test": "umi-test",
-    "publish": "lerna publish"
+    "release": "lerna publish"
   },
   "dependencies": {
     "@types/jest": "^26.0.16"
