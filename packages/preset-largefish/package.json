@@ -1,0 +1,12 @@
+{
+  "name": "@largefish/preset-largefish",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@umijs/preset-react": "~1.7.6"
+  },
+  "peerDependencies": {
+    "umi": "3.x"
+  },
+  "license": "MIT"
+}

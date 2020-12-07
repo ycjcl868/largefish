@@ -1,0 +1,20 @@
+{
+  "name": "largefish",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@umijs/test": "^3.3.0",
+    "father-build": "^1.19.1",
+    "lerna": "^3.22.1"
+  },
+  "scripts": {
+    "build": "father-build",
+    "test": "umi-test",
+    "publish": "lerna publish"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.16"
+  }
+}
