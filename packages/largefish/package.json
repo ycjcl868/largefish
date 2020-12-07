@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "bin": "lib/cli.js",
   "main": "index.js",
+  "module": "index.module.js",
   "dependencies": {
     "@largefish/preset-largefish": "^0.0.2",
     "umi": "~3.3.0"
