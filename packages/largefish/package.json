@@ -1,7 +1,7 @@
 {
   "name": "largefish",
   "version": "0.0.2",
-  "bin": "lib/cli.js",
+  "bin": "bin/largefish.js",
   "main": "index.js",
   "module": "index.module.js",
   "dependencies": {
